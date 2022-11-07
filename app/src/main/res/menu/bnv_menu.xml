@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
+        android:id="@+id/bnv_home"
         android:title="Home"
         android:icon="@drawable/ic_home" />
     <item
+        android:id="@+id/bnv_plants"
         android:title="Plants"
         android:icon="@drawable/ic_plant" />
     <item
+        android:id="@+id/bnv_diseases"
         android:title="Diseases"
-        android:icon="@drawable/ic_home" />
+        android:icon="@drawable/ic_disease" />
     <item
+        android:id="@+id/bnv_weeds"
         android:title="Weeds"
-        android:icon="@drawable/ic_home" />
+        android:icon="@drawable/ic_seed" />
     <item
         android:title="History"
         android:icon="@drawable/ic_history" />
